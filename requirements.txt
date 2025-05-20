@@ -1,2 +1,9 @@
 # requirements.txt
-...
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+pydantic
+reportlab
+python-multipart
