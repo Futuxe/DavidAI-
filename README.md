@@ -11,7 +11,7 @@
 
 ```bash
 # Clone and setup
-git clone https://github.com/rjewi/DavidAI.git
+git clone https://github.com/futuxe/DavidAI-.git
 cd DavidAI
 
 # Backend setup
